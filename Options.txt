@@ -1,0 +1,43 @@
+Resolution 1920 1080
+Units 0
+TemperatureUnits 0
+StaticBatchTriCutoff 80
+DynamicBatchTriCutoff 200
+MultiSample 8
+CycleMenuMusic 0
+DayNightCycleType 2
+GuestLOD 3.000000 3.000000
+AnimalLOD 3.000000 3.000000
+VegetationLOD 3.000000 3.000000
+FenceLOD 3.000000 3.000000
+BuildingLOD 3.000000 3.000000
+PathLOD 3.000000 3.000000
+SceneryLOD 3.000000 3.000000
+SupportLOD 3.000000 3.000000
+TrackLOD 3.000000 3.000000
+RideLOD 3.000000 3.000000
+GeometryImposterDistance 1500.000000
+GeometryImposterTolerance 0.300000
+SkipCacheWarming 3.000000
+SkipBannerSequence 1
+ReflectEnable 1
+WaterBumpEnable 1
+ReflectTerrain 1
+ReflectScenery 1
+ReflectPeople 1
+ReflectAnimals 1
+ReflectParticles 1
+CompressTextures 0
+BlendSceneryLODs 1
+Bloom 1
+Refraction 1
+LaserRayHit 1
+EnableIME 0
+ImportMyMusic 1
+DetailMapTerrain 0
+AttractionSceneryAllowTerrainIntersect 1
+AttractionSceneryAllowSceneryIntersect 1
+TrackAllowSameTrackIntersect 1
+WaterDroplets 1
+BackgroundMusic ""
+Language "English"
